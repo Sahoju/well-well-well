@@ -40,6 +40,7 @@
     {"id":{"name":"obj_left_arm_hand","path":"objects/obj_left_arm_hand/obj_left_arm_hand.yy",},},
     {"id":{"name":"obj_right_arm_upper","path":"objects/obj_right_arm_upper/obj_right_arm_upper.yy",},},
     {"id":{"name":"spr_head","path":"sprites/spr_head/spr_head.yy",},},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_body","path":"objects/obj_body/obj_body.yy",},},
     {"id":{"name":"obj_right_arm_lower","path":"objects/obj_right_arm_lower/obj_right_arm_lower.yy",},},
     {"id":{"name":"obj_left_leg_upper","path":"objects/obj_left_leg_upper/obj_left_leg_upper.yy",},},
