@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -56,6 +56,7 @@
     {"id":{"name":"obj_head","path":"objects/obj_head/obj_head.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"obj_right_leg_upper","path":"objects/obj_right_leg_upper/obj_right_leg_upper.yy",},},
+    {"id":{"name":"obj_char_parent","path":"objects/obj_char_parent/obj_char_parent.yy",},},
     {"id":{"name":"obj_right_leg_foot","path":"objects/obj_right_leg_foot/obj_right_leg_foot.yy",},},
     {"id":{"name":"spr_body","path":"sprites/spr_body/spr_body.yy",},},
     {"id":{"name":"obj_left_leg_foot","path":"objects/obj_left_leg_foot/obj_left_leg_foot.yy",},},
