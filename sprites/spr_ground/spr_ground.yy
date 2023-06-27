@@ -4,7 +4,7 @@
   "name": "spr_ground",
   "bbox_bottom": 19,
   "bbox_left": 0,
-  "bbox_right": 199,
+  "bbox_right": 283,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 200,
+  "width": 284,
 }
