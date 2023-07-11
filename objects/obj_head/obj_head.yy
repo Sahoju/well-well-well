@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_head",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +12,8 @@
     "path": "folders/Objects/character.yy",
   },
   "parentObjectId": {
-    "name": "obj_char_parent",
-    "path": "objects/obj_char_parent/obj_char_parent.yy",
+    "name": "obj_0char_parent",
+    "path": "objects/obj_0char_parent/obj_0char_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -20,7 +22,7 @@
   "physicsGroup": 1,
   "physicsKinematic": false,
   "physicsLinearDamping": 0.1,
-  "physicsObject": true,
+  "physicsObject": false,
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
