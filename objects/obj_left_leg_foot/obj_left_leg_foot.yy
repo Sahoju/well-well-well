@@ -10,8 +10,8 @@
     "path": "folders/Objects/character.yy",
   },
   "parentObjectId": {
-    "name": "obj_0char_parent",
-    "path": "objects/obj_0char_parent/obj_0char_parent.yy",
+    "name": "obj_0char_parent_feet",
+    "path": "objects/obj_0char_parent_feet/obj_0char_parent_feet.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

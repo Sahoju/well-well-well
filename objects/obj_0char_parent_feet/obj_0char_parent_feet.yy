@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_right_arm_hand",
+  "name": "obj_0char_parent_feet",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_0well_parent","path":"objects/obj_0well_parent/obj_0well_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,10 +12,7 @@
     "name": "character",
     "path": "folders/Objects/character.yy",
   },
-  "parentObjectId": {
-    "name": "obj_0char_parent",
-    "path": "objects/obj_0char_parent/obj_0char_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,17 +26,14 @@
   "physicsShape": 1,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":40.0,"y":0.0,},
-    {"x":40.0,"y":20.0,},
-    {"x":0.0,"y":20.0,},
+    {"x":32.0,"y":0.0,},
+    {"x":32.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_extremity",
-    "path": "sprites/spr_extremity/spr_extremity.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

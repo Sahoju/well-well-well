@@ -33,7 +33,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
@@ -61,6 +61,7 @@
     {"id":{"name":"obj_right_leg_foot","path":"objects/obj_right_leg_foot/obj_right_leg_foot.yy",},},
     {"id":{"name":"spr_body","path":"sprites/spr_body/spr_body.yy",},},
     {"id":{"name":"obj_left_leg_foot","path":"objects/obj_left_leg_foot/obj_left_leg_foot.yy",},},
+    {"id":{"name":"obj_0char_parent_feet","path":"objects/obj_0char_parent_feet/obj_0char_parent_feet.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

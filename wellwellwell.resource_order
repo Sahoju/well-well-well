@@ -41,5 +41,6 @@
     {"name":"obj_right_leg_foot","order":11,"path":"objects/obj_right_leg_foot/obj_right_leg_foot.yy",},
     {"name":"spr_body","order":3,"path":"sprites/spr_body/spr_body.yy",},
     {"name":"obj_left_leg_foot","order":12,"path":"objects/obj_left_leg_foot/obj_left_leg_foot.yy",},
+    {"name":"obj_0char_parent_feet","order":15,"path":"objects/obj_0char_parent_feet/obj_0char_parent_feet.yy",},
   ],
 }
